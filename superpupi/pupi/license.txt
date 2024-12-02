@@ -1,0 +1,11 @@
+Model Information:
+* title:	Perrito
+* source:	https://sketchfab.com/3d-models/perrito-00f5f9340b9e47f2bfaa917cbec2749b
+* author:	GREGORYGUADA (https://sketchfab.com/GREGORYGUADA)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Perrito" (https://sketchfab.com/3d-models/perrito-00f5f9340b9e47f2bfaa917cbec2749b) by GREGORYGUADA (https://sketchfab.com/GREGORYGUADA) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

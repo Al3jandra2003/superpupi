@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generar Reporte de Ventas</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Generar Reporte de Ventas</h1>
+        <form action="generar_reporte.php" method="POST">
+            <label for="fecha_inicio">Fecha de inicio:</label>
+            <input type="date" id="fecha_inicio" name="fecha_inicio" required>
+            
+            <label for="fecha_fin">Fecha de fin:</label>
+            <input type="date" id="fecha_fin" name="fecha_fin" required>
+            
+            <button type="submit">Generar Reporte</button>
+        </form>
+    </div>
+</body>
+</html>
+
